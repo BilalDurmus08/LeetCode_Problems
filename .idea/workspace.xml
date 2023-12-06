@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cd72ea5-c498-4660-aa7d-69ceffa7b1aa" name="Changes" comment="second">
+    <list default="true" id="2cd72ea5-c498-4660-aa7d-69ceffa7b1aa" name="Changes" comment="third">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_1_Two_Sum/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_3_Longest_Substring_Without_Repeating/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_3_Longest_Substring_Without_Repeating/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_3_Longest_Substring_Without_Repeating/Solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/a.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <recent name="C:\Users\Hp\IdeaProjects\LeetCode_Problems\src\LeetCode_0_0_10\E_3_Longest_Substring_Without_Repeating" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_0_0_10.E_3_Longest_Substring_Without_Repeating.Main" />
       <module name="LeetCode_Problems" />
@@ -58,8 +58,23 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_0_0_20.E_0_Valid_Parentheses.main" />
+      <module name="LeetCode_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_0_0_20.E_0_Valid_Parentheses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -101,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701210480464</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="third">
+      <created>1701373384080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701373384080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +141,7 @@
     <MESSAGE value="yok" />
     <MESSAGE value="first" />
     <MESSAGE value="second" />
-    <option name="LAST_COMMIT_MESSAGE" value="second" />
+    <MESSAGE value="third" />
+    <option name="LAST_COMMIT_MESSAGE" value="third" />
   </component>
 </project>
