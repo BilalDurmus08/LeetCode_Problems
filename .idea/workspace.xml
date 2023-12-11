@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cd72ea5-c498-4660-aa7d-69ceffa7b1aa" name="Changes" comment="third">
+    <list default="true" id="2cd72ea5-c498-4660-aa7d-69ceffa7b1aa" name="Changes" comment="20. Valid Parentheses">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_3_Longest_Substring_Without_Repeating/Solution1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/a.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,35 @@
       <recent name="C:\Users\Hp\IdeaProjects\LeetCode_Problems\src\LeetCode_0_0_10\E_3_Longest_Substring_Without_Repeating" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.LeetCode_0_0_10.E_5_Longest_Palindromic_Substring.main">
+    <configuration name="LeetCode_0_0_10.E_4_Median_of_Two_Sorted_Arrays.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_0_0_10.E_4_Median_of_Two_Sorted_Arrays.Main" />
+      <module name="LeetCode_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_0_0_10.E_4_Median_of_Two_Sorted_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_0_0_10.E_5_Longest_Palindromic_Substring.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_0_0_10.E_5_Longest_Palindromic_Substring.main" />
+      <module name="LeetCode_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_0_0_10.E_5_Longest_Palindromic_Substring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_0_0_10.E_3_Longest_Substring_Without_Repeating.Main" />
       <module name="LeetCode_Problems" />
@@ -74,6 +100,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode_0_0_10.E_5_Longest_Palindromic_Substring.main" />
+        <item itemvalue="Application.LeetCode_0_0_10.E_4_Median_of_Two_Sorted_Arrays.Main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -123,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701373384080</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="20. Valid Parentheses">
+      <created>1701873196824</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701873196824</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +177,7 @@
     <MESSAGE value="first" />
     <MESSAGE value="second" />
     <MESSAGE value="third" />
-    <option name="LAST_COMMIT_MESSAGE" value="third" />
+    <MESSAGE value="20. Valid Parentheses" />
+    <option name="LAST_COMMIT_MESSAGE" value="20. Valid Parentheses" />
   </component>
 </project>
