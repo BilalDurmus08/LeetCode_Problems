@@ -1,4 +1,4 @@
-package LeetCode_0_0_10.E_1_Two_Sum;
+package E_0_0_1_Two_Sum;
 
 public class Main {
     public static void main(String[] args) {

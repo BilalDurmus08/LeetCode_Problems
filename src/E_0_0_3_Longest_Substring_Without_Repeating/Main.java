@@ -1,4 +1,4 @@
-package LeetCode_0_0_10.E_3_Longest_Substring_Without_Repeating;
+package E_0_0_3_Longest_Substring_Without_Repeating;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package LeetCode_0_0_20.E_0_Valid_Parentheses;
+package E_0_2_0_Valid_Parenthesess;
 
 import java.util.Stack;
 

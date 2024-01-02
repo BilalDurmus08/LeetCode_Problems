@@ -1,8 +1,6 @@
-package LeetCode_0_0_10.E_3_Longest_Substring_Without_Repeating;
+package E_0_0_3_Longest_Substring_Without_Repeating;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
 public class Solution2 {

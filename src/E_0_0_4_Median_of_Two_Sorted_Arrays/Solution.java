@@ -1,4 +1,4 @@
-package LeetCode_0_0_10.E_4_Median_of_Two_Sorted_Arrays;
+package E_0_0_4_Median_of_Two_Sorted_Arrays;
 
 import java.util.ArrayList;
 

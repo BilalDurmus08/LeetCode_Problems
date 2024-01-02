@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cd72ea5-c498-4660-aa7d-69ceffa7b1aa" name="Changes" comment="5. Longest_Palindromic_Substring">
+    <list default="true" id="2cd72ea5-c498-4660-aa7d-69ceffa7b1aa" name="Changes" comment="Try">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_1_Two_Sum/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_0_0_1_Two_Sum/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_2_Add_Two_Numbers/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_0_0_2_Add_Two_Numbers/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_2_Add_Two_Numbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_0_0_2_Add_Two_Numbers/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_3_Longest_Substring_Without_Repeating/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_0_0_3_Longest_Substring_Without_Repeating/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_3_Longest_Substring_Without_Repeating/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_0_0_3_Longest_Substring_Without_Repeating/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_4_Median_of_Two_Sorted_Arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_0_0_4_Median_of_Two_Sorted_Arrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_4_Median_of_Two_Sorted_Arrays/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_0_0_4_Median_of_Two_Sorted_Arrays/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_5_Longest_Palindromic_Substring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_0_0_5_Longest_Palindromic_Substring/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_10/E_5_Longest_Palindromic_Substring/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_0_0_5_Longest_Palindromic_Substring/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_20/E_0_Valid_Parentheses/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_0_2_0_Valid_Parenthesess/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_20/E_0_Valid_Parentheses/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_0_2_0_Valid_Parenthesess/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_0_0_20/asd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +54,13 @@
       <recent name="C:\Users\Hp\IdeaProjects\LeetCode_Problems\src\LeetCode_0_0_10\E_3_Longest_Substring_Without_Repeating" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LeetCode_0_0_10.E_5_Longest_Palindromic_Substring.main">
-    <configuration name="LeetCode_0_0_10.E_4_Median_of_Two_Sorted_Arrays.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_0_0_10.E_4_Median_of_Two_Sorted_Arrays.Main" />
+  <component name="RunManager" selected="Application.E_0_0_5_Longest_Palindromic_Substring.main">
+    <configuration name="E_0_0_4_Median_of_Two_Sorted_Arrays.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_0_0_4_Median_of_Two_Sorted_Arrays.Main" />
       <module name="LeetCode_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_0_0_10.E_4_Median_of_Two_Sorted_Arrays.*" />
+          <option name="PATTERN" value="E_0_0_4_Median_of_Two_Sorted_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +69,12 @@
         <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="LeetCode_0_0_10.E_5_Longest_Palindromic_Substring.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_0_0_10.E_5_Longest_Palindromic_Substring.main" />
+    <configuration name="E_0_0_5_Longest_Palindromic_Substring.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_0_0_5_Longest_Palindromic_Substring.main" />
       <module name="LeetCode_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_0_0_10.E_5_Longest_Palindromic_Substring.*" />
+          <option name="PATTERN" value="E_0_0_5_Longest_Palindromic_Substring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,11 +84,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_0_0_10.E_3_Longest_Substring_Without_Repeating.Main" />
+      <option name="MAIN_CLASS_NAME" value="E_0_0_3_Longest_Substring_Without_Repeating.Main" />
       <module name="LeetCode_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_0_0_10.E_1_Two_Sum.*" />
+          <option name="PATTERN" value="E_0_0_1_Two_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCode_0_0_10.E_5_Longest_Palindromic_Substring.main" />
-        <item itemvalue="Application.LeetCode_0_0_10.E_4_Median_of_Two_Sorted_Arrays.Main" />
+        <item itemvalue="Application.E_0_0_5_Longest_Palindromic_Substring.main" />
+        <item itemvalue="Application.E_0_0_4_Median_of_Two_Sorted_Arrays.Main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -165,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702333575465</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Try">
+      <created>1703603445062</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703603445062</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +206,7 @@
     <MESSAGE value="third" />
     <MESSAGE value="20. Valid Parentheses" />
     <MESSAGE value="5. Longest_Palindromic_Substring" />
-    <option name="LAST_COMMIT_MESSAGE" value="5. Longest_Palindromic_Substring" />
+    <MESSAGE value="Try" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try" />
   </component>
 </project>

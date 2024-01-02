@@ -1,4 +1,4 @@
-package LeetCode_0_0_10.E_5_Longest_Palindromic_Substring;
+package E_0_0_5_Longest_Palindromic_Substring;
 
 import java.util.ArrayList;
 import java.util.List;
